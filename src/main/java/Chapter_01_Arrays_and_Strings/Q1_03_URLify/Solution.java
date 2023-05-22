@@ -12,7 +12,7 @@ package Chapter_01_Arrays_and_Strings.Q1_03_URLify;
  *          Input :   "Mr John Smith      ", 13
  *          Output:   "Mr%20John%20Smith"
  */
-public class Question {
+public class Solution {
 
     /**      Note: Java Strings are immutable
      *          We have implemented this problem using character arrays, because Java strings are immutable.
